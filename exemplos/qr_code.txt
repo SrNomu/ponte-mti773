@@ -1,0 +1,6 @@
+TESTE 6 - MARCAÇÃO QR
+Texto logo antes do QR:
+{{QR:https://exemplo.com.br/mti773?teste=marcacao-qr-com-uma-url-bem-comprida}}
+Texto logo depois do QR.
+Dois na mesma linha: A {{QR:primeiro}} B {{QR:segundo}} C
+Fim do teste de QR.

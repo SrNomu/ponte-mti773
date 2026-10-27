@@ -1,0 +1,5 @@
+Teste do Bloco de Notas
+ação ÁÉÍÓÚ çÇ ãõ âêô à ü
+Coração, pão, maçã, avó, você.
+Uma linha comprida para ver a quebra automática em 32 colunas.
+Fim.

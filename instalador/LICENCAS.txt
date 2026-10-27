@@ -1,0 +1,29 @@
+﻿PONTE MTI-773 - componentes e licenças
+=======================================
+
+Este programa é software livre, sob a licença MIT (Copyright (c) 2026 Pedro).
+Código-fonte: https://github.com/SrNomu/ponte-mti773
+
+Projeto independente, sem nenhuma ligação com a marca Tomate ou com o
+fabricante da impressora. Os nomes são citados só para identificar o modelo.
+
+Ele inclui os componentes abaixo, todos de distribuição livre:
+
+- Python 3 (Python Software Foundation License)
+  https://docs.python.org/3/license.html
+
+- Pillow (licença MIT-CMU / HPND), usado para converter imagens
+  https://github.com/python-pillow/Pillow/blob/main/LICENSE
+
+- PyInstaller (GPL 2 com exceção para o "bootloader": permite distribuir
+  programas gerados com ele sob qualquer licença)
+  https://pyinstaller.org/en/stable/license.html
+
+- Instalador feito com Inno Setup (licença livre, permite uso comercial)
+  https://jrsoftware.org/files/is/license.txt
+
+O programa não envia nenhum dado para a internet: só escuta conexões do
+próprio computador (127.0.0.1, portas 9100 e 631) e fala com a impressora
+pelo cabo USB.
+
+O PROGRAMA É FORNECIDO "COMO ESTÁ", SEM GARANTIAS DE QUALQUER TIPO.

@@ -1,0 +1,24 @@
+# Saídas da compilação (o Setup.exe vai na Release do GitHub, não no código)
+build/
+saida/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Dados locais da ponte em desenvolvimento: config, log, ícones gerados e
+# trabalhos salvos (podem conter cupons de clientes e caminhos do seu PC)
+dados/
+*.log
+*.pwg
+*.bin
+
+# Editor / sistema
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
